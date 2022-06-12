@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">FingerprintAuth</string>
+    <!-- ACTIONS -->
+    <string name="action_save">Guardar</string>
+    <string name="action_cancel">Cancelar</string>
+    <!-- MAIN -->
+    <string name="main_title">Mis datos</string>
+    <string name="main_hint_name">Nombre</string>
+    <string name="main_hint_email">Email</string>
+    <string name="main_hint_phone">Teléfono</string>
+    <!-- BIOMETRIC -->
+    <string name="biometric_title">Autenticación biométrica</string>
+    <string name="biometric_description">Introduce tu huella para verificar que eres tú</string>
+    <string name="biometry_available">Biometría disponible</string>
+</resources>

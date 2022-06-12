@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FingerprintAuth</string>
+    <!-- ACTIONS -->
+    <string name="action_save">Save</string>
+    <string name="action_cancel">Cancel</string>
+    <!-- MAIN -->
+    <string name="main_title">My data</string>
+    <string name="main_hint_name">Name</string>
+    <string name="main_hint_email">Email</string>
+    <string name="main_hint_phone">Phone</string>
+    <!-- BIOMETRIC -->
+    <string name="biometric_title">Biometric authentication</string>
+    <string name="biometric_description">Enter your fingerprint to verify your identity</string>
+    <string name="biometry_available">Biometry available</string>
+</resources>
